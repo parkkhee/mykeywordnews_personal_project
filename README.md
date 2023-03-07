@@ -59,5 +59,4 @@ DB속 저장된 회원 정보(비밀 번호는 spring security로 인해 암호�
 
 
 # 데모 영상
----
 https://user-images.githubusercontent.com/76894305/223414617-b79da17a-57c7-4ebf-8906-08e30d68c1a3.mp4
